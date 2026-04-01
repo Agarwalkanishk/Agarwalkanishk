@@ -14,3 +14,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalkanishk&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalkanishk" /> </p>
 
+---
+
+## 💪 Beyond Code
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qZgHBlenHa1zKqy6Zn/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <i>Lifting weights. Lifting standards.</i>
+</p>
+
