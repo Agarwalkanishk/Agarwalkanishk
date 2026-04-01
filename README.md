@@ -16,13 +16,6 @@
 
 ---
 
-## 💪 Beyond Code
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qZgHBlenHa1zKqy6Zn/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qZgHBlenHa1zKqy6Zn/giphy.gif" width="200" />
 </p>
-
-<p align="center">
-  <i>Lifting weights. Lifting standards.</i>
-</p>
-
