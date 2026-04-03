@@ -42,18 +42,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<br>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
 
-<h3 align="center">🎮 Mini Game — Whack-a-Mole</h3>
-
-<p align="center">
-  <a href="https://Agarwalkanishk.github.io/Agarwalkanishk/game.html">
-    <img src="https://img.shields.io/badge/▶%20Play%20Whack--a--Mole-FF2E63?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-> **Setup:** Save `game.html` (below) to your repo root → go to **Settings → Pages → Deploy from branch (main / root)** → replace `YOUR_USERNAME` and `YOUR_REPO` in the badge link above.
 
 <br>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
