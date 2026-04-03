@@ -49,7 +49,7 @@
 <p align="center"><i>GitHub doesn't run JavaScript in READMEs — host the file below on GitHub Pages and link it here!</i></p>
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/YOUR_REPO/game.html">
+  <a href="https://Agarwalkanishk.github.io/Agarwalkanishk/game.html">
     <img src="https://img.shields.io/badge/▶%20Play%20Whack--a--Mole-FF2E63?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
