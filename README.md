@@ -46,7 +46,6 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
 
 <h3 align="center">🎮 Mini Game — Whack-a-Mole</h3>
-<p align="center"><i>GitHub doesn't run JavaScript in READMEs — host the file below on GitHub Pages and link it here!</i></p>
 
 <p align="center">
   <a href="https://Agarwalkanishk.github.io/Agarwalkanishk/game.html">
