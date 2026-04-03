@@ -8,15 +8,16 @@
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/km9376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="km9376" height="30" width="40" /></a>
 </p>
-<br>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;"><h3 align="left">🧠 Skills</h3>
 
+<br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
+
+<h3 align="left">🧠 Skills</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,7 +41,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-<br>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">  <img src="Pixel_Art_Car_Driving_A_Highway_Loop_preview_2051455.gif" width="100%"/>
+<br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
+
+<h3 align="center">🎮 Mini Game — Whack-a-Mole</h3>
+<p align="center"><i>GitHub doesn't run JavaScript in READMEs — host the file below on GitHub Pages and link it here!</i></p>
+
+<p align="center">
+  <a href="https://YOUR_USERNAME.github.io/YOUR_REPO/game.html">
+    <img src="https://img.shields.io/badge/▶%20Play%20Whack--a--Mole-FF2E63?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+> **Setup:** Save `game.html` (below) to your repo root → go to **Settings → Pages → Deploy from branch (main / root)** → replace `YOUR_USERNAME` and `YOUR_REPO` in the badge link above.
+
+<br>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF2E63, #08D9D6, transparent); margin: 40px 0;">
+
+<img src="Pixel_Art_Car_Driving_A_Highway_Loop_preview_2051455.gif" width="100%"/>
