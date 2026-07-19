@@ -47,17 +47,24 @@ I like learning by building projects, solving real problems, and improving thing
 ## Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/madhogariakanishk">
+  <a href="https://linkedin.com/in/madhogariakanishk" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Kanishk%20Madhogaria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
- 
-  <a href="https://instagram.com/](https://www.instagram.com/kanishkmadhogaria/">
+
+  <a href="https://www.instagram.com/kanishkmadhogaria/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@kanishkmadhogaria-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
+    />
+  </a>
+
+  <a href="mailto:kanishkmahogaria@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-kanishkmahogaria%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
     />
   </a>
 </p>
