@@ -53,12 +53,7 @@ I like learning by building projects, solving real problems, and improving thing
       alt="LinkedIn"
     />
   </a>
-  <a href="https://www.hackerrank.com/km9376">
-    <img
-      src="https://img.shields.io/badge/HackerRank-km9376-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"
-      alt="HackerRank"
-    />
-  </a>
+ 
   <a href="https://instagram.com/](https://www.instagram.com/kanishkmadhogaria/">
     <img
       src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
